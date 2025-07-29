@@ -1,4 +1,5 @@
 # CyberSec: Топологический и Геометрический Анализ ECDSA
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/de663206-2284-4d9e-80f7-394df1a8e0c1" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
