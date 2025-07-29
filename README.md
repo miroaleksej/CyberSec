@@ -53,6 +53,7 @@ CyberSec может использоваться как библиотека в 
 ___
 ```python
 from CyberSec import CyberSec, SecurityLevel
+```
 ___
 
 # Создание экземпляра системы
