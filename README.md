@@ -309,5 +309,6 @@ ___
 **ПОМНИТЕ: НАША ЦЕЛЬ - ЗАЩИТА ДАННЫХ, А НЕ ИХ ВЗЛОМ.**  
 **ИСПОЛЬЗУЙТЕ ЭТУ СИСТЕМУ ТОЛЬКО В НАУЧНЫХ И ОБРАЗОВАТЕЛЬНЫХ ЦЕЛЯХ!**
 
-![CyberSec Logo](https://via.placeholder.com/150/92c952?text=CyberSec)  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/6633f75f-7fef-4216-9363-6bca942ed9e6" />
+  
 *CyberSec: Топологический и геометрический анализ ECDSA*
