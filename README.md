@@ -2,6 +2,9 @@
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/579734f1-91e4-4699-bf55-68322a173c36" />
 
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/yourrepo&label=Visitors&countColor=%23263759)
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
